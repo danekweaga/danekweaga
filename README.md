@@ -10,7 +10,7 @@ I'm a Computer Science student at the University of New Brunswick (Class of 2028
 ![JavaScript](https://skillicons.dev/icons?i=js,java,python,c,sql)
 
 ### Web Development
-![Web Technologies](https://skillicons.dev/icons?i=html,css,react,nodejs)
+![Web Technologies](https://skillicons.dev/icons?i=html,css)
 
 ### Tools & Platforms
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux)
