@@ -26,14 +26,16 @@ I'm a Computer Science student at the University of New Brunswick (Class of 2028
 ### 🧮 Polynomial Calculator
 GUI-based calculator in JavaFX capable of solving polynomials up to the 3rd degree.
 
-### 📚 University Library Database
-Command-line application using Java and SQL for managing library records with CRUD operations.
-
 ### 🎮 Game Giveaway Tool
 Desktop JavaFX application for streamers to conduct giveaways, using randomized algorithms.
 
-### 🚚 Business Website for a Moving Company
-Responsive website built with HTML5, CSS3, and JavaScript with contact form and cross-browser testing.
+### 💸 MoneyCheck — AI Financial Decision App
+Next.js · Supabase · OpenAI API | Apr 2026
+AI-powered web app that analyzes purchases in real time to evaluate financial risk and budget impact. Features a custom decision engine and uses the OpenAI API to deliver personalized spending insights and recommendations.
+
+### ⏱️ Kairos — Real-Time Focus & Decision System
+React · TypeScript · Supabase | Mar 2026
+Productivity app that helps users work on the right tasks at the right time using an ROI-based prioritization system. Includes energy-aware session planning and a real-time adaptation engine that adjusts focus sessions based on user input.
 
 ## 📫 Let's Connect
 
