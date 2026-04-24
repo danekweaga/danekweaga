@@ -2,7 +2,7 @@
 
 ### Aspiring Software Engineer | Web Developer | Problem Solver
 
-I'm a Computer Science student at the University of New Brunswick (Class of 2028) with a strong foundation in programming, web development, and problem solving. I enjoy creating meaningful software, from responsive websites to robust applications, with a focus on clean and efficient design.
+I'm a Computer Science student  with a strong foundation in programming, web development, and problem solving. I enjoy creating meaningful software, from responsive websites to robust applications, with a focus on clean and efficient design.
 
 ## 🛠️ Technologies & Skills
 
